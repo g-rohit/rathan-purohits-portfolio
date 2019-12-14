@@ -147,6 +147,7 @@ height: 100%;
     display: flex;
     position: relative;
     flex-basis: 30%;
+    align-items: flex-start;
     
 }
  .each-image-div:hover {
